@@ -1,0 +1,22 @@
+{
+  "name": "demoplugin",
+  "version": "1.0.0",
+  "description": "cordova plugin test",
+  "main": "index.js",
+  "scripts": {
+    "test": "no"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bullet425/cordovaTestPlugin.git"
+  },
+  "keywords": [
+    "cordova"
+  ],
+  "author": "Javier",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bullet425/cordovaTestPlugin/issues"
+  },
+  "homepage": "https://github.com/Bullet425/cordovaTestPlugin#readme"
+}
